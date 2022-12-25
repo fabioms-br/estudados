@@ -2,12 +2,12 @@
 ## Banco de Dados para Estudo SQL 
 ### Contém bancos de dados de exemplo para os bancos de dados SQL da Microsoft, incluindo SQL Server e Banco de Dados SQL do Azure.
 
-Desenvolvido: Fábio Menezes Santos [(Linkedin)](https://www.linkedin.com/in/fabioms) e Hugo Venturini [(Linkedin)](https://www.linkedin.com/in/hugoventurini-excel-and-powerbi)  
-Contribuição: Rafael Rabaquim [(Linkedin)](https://www.linkedin.com/in/rafael-rabaquim)
+**Desenvolvido**: Fábio Menezes Santos [(Linkedin)](https://www.linkedin.com/in/fabioms) e Hugo Venturini [(Linkedin)](https://www.linkedin.com/in/hugoventurini-excel-and-powerbi)  
+**Contribuição**: Rafael Rabaquim [(Linkedin)](https://www.linkedin.com/in/rafael-rabaquim)
 
-Objetivo: Utilizar as práticas de ensino e aprendizagem do scripts T-SQL com dados reais distribuídos gratuitamente. 
+**Objetivo**: Utilizar as práticas de ensino e aprendizagem do scripts T-SQL com dados reais distribuídos gratuitamente. 
 
-Dados existentes na Versão 1.0
+**Dados existentes na Versão 1.0**
 - Lista de Instituições Financeiras
 - Código Fiscal de Operações e de Prestações
 - Municípios do Brasil com Ponto Geográfico
