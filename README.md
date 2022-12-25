@@ -5,7 +5,7 @@
 **Desenvolvido**: Fábio Menezes Santos [(Linkedin)](https://www.linkedin.com/in/fabioms) e Hugo Venturini [(Linkedin)](https://www.linkedin.com/in/hugoventurini-excel-and-powerbi)  
 **Contribuição**: Rafael Rabaquim [(Linkedin)](https://www.linkedin.com/in/rafael-rabaquim)
 
-**Objetivo**: Utilizar as práticas de ensino e aprendizagem do scripts T-SQL com dados reais distribuídos gratuitamente. 
+**Objetivo**: Utilizar as práticas de ensino e aprendizagem do script T-SQL com dados reais distribuídos gratuitamente. 
 
 ## **Dados existentes na Versão 1.0**
 - Lista de Instituições Financeiras
