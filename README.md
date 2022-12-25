@@ -1,5 +1,5 @@
 # estudados  
-## Banco de Dados para Estudo  
+## Banco de Dados para Estudo SQL 
 ### Contém bancos de dados de exemplo para os bancos de dados SQL da Microsoft, incluindo SQL Server e Banco de Dados SQL do Azure.
 
 Desenvolvido: Fábio Menezes Santos [(Linkedin)](https://www.linkedin.com/in/fabioms) e Hugo Venturini [(Linkedin)](https://www.linkedin.com/in/hugoventurini-excel-and-powerbi)  
