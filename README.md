@@ -1,5 +1,5 @@
 # estudados
 Banco de Dados para Estudo
 
-Desenvolvido: Fábio Menezes Santos [https://www.linkedin.com/in/fabioms](Linkedin) e Hugo Venturini [https://www.linkedin.com/in/hugoventurini-excel-and-powerbi](Linkedin)
-Contribuição: Rafael Rabaquim [https://www.linkedin.com/in/rafael-rabaquim](Linkedin)
+Desenvolvido: Fábio Menezes Santos (Linkedin)[https://www.linkedin.com/in/fabioms] e Hugo Venturini (Linkedin)[https://www.linkedin.com/in/hugoventurini-excel-and-powerbi]
+Contribuição: Rafael Rabaquim (Linkedin)[https://www.linkedin.com/in/rafael-rabaquim]
