@@ -30,6 +30,6 @@
 
 > [Microsoft Learn: Importar um arquivo BACPAC para criar um novo banco de dados de usuário](https://learn.microsoft.com/pt-br/sql/relational-databases/data-tier-applications/import-a-bacpac-file-to-create-a-new-user-database?view=sql-server-ver16&WT.mc_id=DP-MVP-5004844)
 
-- Scripts de Criação das tabelas
-[scripts](/scripts)  
+- Scripts de Criação das tabelas  
+[Pasta /scripts](/scripts)  
 Apenas arquivos para visualização da estrutura de tabelas, e não são necessários para a importação do banco de dados. 
