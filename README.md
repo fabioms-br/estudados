@@ -7,13 +7,11 @@
 
 **Objetivo**: Utilizar as práticas de ensino e aprendizagem do script T-SQL com dados reais distribuídos gratuitamente. 
 
->>>
+>
 Se você quer estudar liguagem #SQL ou #BusinessIntelligence (independente da tecnologia), aqui você encontrará material.
-
 Se você quer uma base para elaborar seu curso ou treinamento, aqui você encontrará material. Apenas cite o projeto, para fortalecê-lo!
-
 Se você faz parte desta imensa comunidade de #Dados, gostou desta iniciativa, e quer fazer parte como contribuidor, seja bem-vindo!
->>>
+>
 
 ## **Dados existentes na Versão 1.0**
 - Lista de Instituições Financeiras
