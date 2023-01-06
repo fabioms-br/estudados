@@ -32,6 +32,13 @@
 - Nota Fiscal de Compra e Serviço do Governo Federal
 - Tweets Publicados na Rede Social
 
+### Corrigir valores da tabela '[erp].[Colaboradores]' 
+> O valor da coluna 'Demissao' com a data '1900-01-01 00:00:00.000' 
+> necessita ser atualizado para valor NULL, pois
+> identifica que o colaborador não foi demitido 
+
+Para quem já importou o banco de dados, utilizar o script SQL: [/scripts/01-correcao.sql](/scripts/01-correcao.sql)  
+
 **Arquivos disponíveis**
 - Arquivo .bacpac para criar uma cópia do banco de dados original, com os dados, em uma nova instância do Mecanismo de Banco de Dados  
 [estudados.bacpac](/estudados.bacpac)  
