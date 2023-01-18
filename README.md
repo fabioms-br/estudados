@@ -42,7 +42,12 @@ Para quem já importou o banco de dados, utilizar o script SQL: [/scripts/01-cor
 **Arquivos disponíveis**
 - Arquivo .bacpac para criar uma cópia do banco de dados original, com os dados, em uma nova instância do Mecanismo de Banco de Dados  
 [estudados.bacpac](/estudados.bacpac)  
-> [Microsoft Learn: Importar um arquivo BACPAC para criar um novo banco de dados de usuário](https://learn.microsoft.com/pt-br/sql/relational-databases/data-tier-applications/import-a-bacpac-file-to-create-a-new-user-database?view=sql-server-ver16&WT.mc_id=DP-MVP-5004844)
+
+>Vídeo no Youtube: Como Importar Banco de Dados com Arquivos BacPac no Azure SQL 
+>[https://youtu.be/5LfCUd9JxcU](https://youtu.be/5LfCUd9JxcU)
+
+> [Microsoft Learn: Importar um arquivo BACPAC para criar um novo banco de dados de usuário]
+>(https://learn.microsoft.com/pt-br/sql/relational-databases/data-tier-applications/import-a-bacpac-file-to-create-a-new-user-database?view=sql-server-ver16&WT.mc_id=DP-MVP-5004844)
 
 - Scripts de Criação das tabelas  
 [Pasta /scripts](/scripts)  
